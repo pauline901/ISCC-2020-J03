@@ -1,0 +1,44 @@
+html {
+    width: 780px;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    background-color: lightblue;
+}
+.info {
+    padding: 20px 20px 20px 20px;
+    font-size: 40px;
+}
+.photo {
+    float: left;
+    width: 500px;
+    height: 200px;
+}
+span {
+    text-align: center;
+    background-color: lightpink;
+    padding: 10px 10px 10px 10px;
+    margin: 0px;
+    display: block;
+    border: 2px;
+    border-color: indigo;
+}
+.competences {
+    float: right;
+}
+.profil {
+    background-color: orange;
+    padding: 10px 10px 10px 10px;
+    margin: 0px;
+    display: block;
+    border: 2px;
+    border-color: indigo;
+}
+.Intérêts {
+    background-color: greenyellow;
+    padding: 10px 10px 10px 10px;
+    margin: 0px;
+    display: block;
+    border: 2px;
+    border-color: indigo;
+}
